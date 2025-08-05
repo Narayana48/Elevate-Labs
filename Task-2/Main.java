@@ -1,10 +1,9 @@
-import java.awt.ScrollPane;
 import java.util.*;
-import javax.swing.SpringLayout;
 class Main{
     static Scanner sc=new Scanner(System.in);
     static ArrayList<Student> list=new ArrayList<Student>();
 
+    // Returns index number if available
      public int check(int check){
         int c=0;
         int index=0;
@@ -25,6 +24,7 @@ class Main{
         }
     }
 
+    //Creates single or multiple records at a time
     public void Add(){
             System.out.println("How many Records want to add");
             int n=sc.nextInt();
@@ -51,6 +51,7 @@ class Main{
              }
     }
 
+    // Display the Records
     public void display(){
         if(list.isEmpty()){
             System.out.println("Currently no Student records are available to display :)");
@@ -67,6 +68,7 @@ class Main{
 
     }
 
+    // Updates the Record
     public void Update(){
         System.out.print("Enter the Id you want to update: ");
         int id=sc.nextInt();
@@ -113,6 +115,7 @@ class Main{
         }
     }
 
+    // Delete the Records
     public void delete(){
         System.out.println("1. Delete particular record         2. Remove all Records");
         System.out.print("Enter your Choice:");
