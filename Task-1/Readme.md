@@ -2,4 +2,4 @@
 
  ## Claculator
 
- Based on the given Hints in the task i had Build a basic calculator using Java console I/O using Vs code, it Performs basic Mathematical caluculations.
+Based on the provided hints, I developed a basic calculator using Java with console input/output in Visual Studio Code, which performs fundamental mathematical operations
