@@ -4,7 +4,7 @@
 
 ### In this task, I developed a simple Library Management System using four Java classes:-
 
-### [Book.java](https://github.com/Narayana48/Elevate-Labs/blob/main/Task-3/Book.java) hepls in creating Book objects which contains fields,those are 'id', 'title' and 'author'and Book availabilty. 
+### [Book.java](https://github.com/Narayana48/Elevate-Labs/blob/main/Task-3/Book.java),it helps in creating Book objects which contains fields,those are 'id', 'title' and 'author'and Book availabilty. 
 
 ### [User.java](https://github.com/Narayana48/Elevate-Labs/blob/main/Task-3/User.java), this java file contains the User class that defines user ID and name. 
 
