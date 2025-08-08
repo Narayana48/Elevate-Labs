@@ -6,7 +6,7 @@
 
 ## [Working.java](https://github.com/Narayana48/Elevate-Labs/blob/main/Task-4/Working.java)
 
-### In this Java file, I have created two methods: [addNotes](https://github.com/Narayana48/Elevate-Labs/blob/main/Task-4/Working.java#L7) and [viewNotes](ttps://github.com/Narayana48/Elevate-Labs/blob/main/Task-4/Working.java#L27).
+### In this Java file, I have created two methods: [addNotes](https://github.com/Narayana48/Elevate-Labs/blob/main/Task-4/Working.java#L7) and [viewNotes](https://github.com/Narayana48/Elevate-Labs/blob/main/Task-4/Working.java#L27).
 
 ### The addNotes method allows users to add new notes to the file.
 
