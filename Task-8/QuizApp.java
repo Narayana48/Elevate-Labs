@@ -72,10 +72,10 @@ public class QuizApp {
             int answer = sc.nextInt();
 
             if (answer == q.correctOption) {
-                System.out.println("✅ Correct!\n");
+                System.out.println(" Correct!\n");
                 score++;
             } else {
-                System.out.println("❌ Wrong! Correct answer: " + q.options[q.correctOption - 1] + "\n");
+                System.out.println(" Wrong! Correct answer: " + q.options[q.correctOption - 1] + "\n");
             }
         }
 
